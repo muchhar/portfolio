@@ -79,8 +79,8 @@ const Portfolio = () => {
           <div className="flex justify-between items-center">
              <div className="flex items-center gap-3">
               <img 
-                src="/src/assets/profile_pic.jpeg" 
-                alt="Muchhar Bharat"
+                src="https://i.postimg.cc/YCd6R4Q0/profile-pic.jpg" 
+               alt="Muchhar Bharat"
                 className="w-10 h-10 rounded-full border-2 border-blue-400 object-cover"
               />
               <div className="text-2xl font-bold bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">
